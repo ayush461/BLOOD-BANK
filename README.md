@@ -10,7 +10,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/ayush461/BLOOD-BANK)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-This is a simple Blood Bank Web Application I made for my assigment. Uses Node JS and MongoDB primarily and 
+This is a simple Blood Bank Web Application I made for my assigment. Uses Node JS and MongoDB primarily and mongoDB as a database.
 
 ## 📝 Table of Contents
 

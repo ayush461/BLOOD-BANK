@@ -1,6 +1,7 @@
 $('input').on('keyup', function () {
   this.value = this.value.toUpperCase();
 });
+//bank details
 var a = ['search', 'delete'];
 var i = 1;
 $(document).ready(function () {
